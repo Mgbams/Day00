@@ -1,4 +1,4 @@
-  1  yarn docker:dev
+    1  yarn docker:dev
     2  yarn docker:clean
     3  yarn docker:dev
     4  knex migrate:latest
